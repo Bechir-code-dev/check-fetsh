@@ -1,3 +1,40 @@
 body{
     background-color:darkslategrey;
+    font-family: arial , sans-serif;
+}
+.app{
+    text-align: center;
+    text-decoration:underline ;
+}
+input{
+    margin-left: 650px;
+    border-radius: 30px;
+    text-align: center;
+    border: 2px solid;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+button{
+    border-radius:20px;
+    padding: 10px 5px 10px 5px;
+    margin-left:10px ;
+}
+p{
+    text-align: right;
+    margin-top: 10px;
+}
+#pays{
+    text-align: center;
+    text-transform: capitalize;
+}
+#weather{
+    text-align: center;
+    text-transform: capitalize;
+}
+#wind{
+    text-align: center;
+    text-transform: capitalize;
+}
+hr{
+    margin-top: 300px;
 }
